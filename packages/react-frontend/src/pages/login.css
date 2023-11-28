@@ -1,0 +1,241 @@
+.login {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login .div {
+    background-color: #ffffff;
+    height: 932px;
+    overflow: hidden;
+    position: relative;
+    width: 430px;
+}
+
+.login .overlap {
+    height: 713px;
+    left: -116px;
+    position: absolute;
+    top: -343px;
+    width: 710px;
+}
+
+.login .overlap-group {
+    height: 713px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 710px;
+}
+
+.login .rectangle {
+    background-color: #ecece9;
+    border-radius: 26px;
+    height: 519px;
+    left: 100px;
+    position: absolute;
+    top: 97px;
+    transform: rotate(-32.66deg);
+    width: 511px;
+}
+
+.login .group {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, rgb(186, 223, 231) 100%);
+    border-radius: 88.5px;
+    height: 177px;
+    left: 243px;
+    position: absolute;
+    top: 382px;
+    width: 177px;
+}
+
+.login .logo-group {
+    height: 144px;
+    left: 21px;
+    position: absolute;
+    top: 16px;
+    width: 124px;
+}
+
+.login .text-wrapper {
+    color: #388087;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 80px;
+    font-weight: 900;
+    left: 136px;
+    letter-spacing: 5.2px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 619px;
+    white-space: nowrap;
+    width: 390px;
+}
+
+.login .email-region {
+    height: 204px;
+    left: -67px;
+    position: absolute;
+    top: 400px;
+    width: 710px;
+}
+
+.login .password-region{
+    height: 603px;
+    left: -67px;
+    position: absolute;
+    top: 425px;
+    width: 710px;
+}
+
+.login .text-wrapper-2 {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 163px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 95px;
+    width: 233px;
+}
+
+.login .password-field {
+    background-color: #ffe78b;
+    border-radius: 18px;
+    height: 48px;
+    left: 101px;
+    position: absolute;
+    top: 176px;
+    width: 360px;
+}
+
+.login .p {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 324px;
+    white-space: nowrap;
+}
+
+.login .ellipse {
+    background-color: #f2fbe0;
+    border: 1px solid;
+    border-color: #388087;
+    border-radius: 22.5px;
+    height: 45px;
+    left: 396px;
+    position: absolute;
+    top: 246px;
+    width: 45px;
+}
+
+.login .ellipse:hover {
+    background-color: #ffe78b;
+  }
+
+.login .submit.vector {
+    height: 23px;
+    left: 407px;
+    position: absolute;
+    top: 310px;
+    width: 24px;
+}
+
+.login .text-wrapper-3 {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 165px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 233px;
+}
+
+.login .email-field {
+    z-index: 2;
+    background-color: #ffe78b;
+    border-radius: 18px;
+    height: 48px;
+    left: 101px;
+    position: absolute;
+    top: 40px;
+    width: 360px;
+}
+
+.login .name-region{
+    height: 97px;
+    left: 35px;
+    position: absolute;
+    top: 401px;
+    width: 360px;
+}
+
+.login .username-region{
+    height: 97px;
+    left: 35px;
+    position: absolute;
+    top: 540px;
+    width: 360px;
+}
+
+.login .text-wrapper-5 {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 0px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 403px;
+}
+
+.login .username-field {
+    background-color: #ffe78b;
+    border-radius: 18px;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 360px;
+}
+
+.login .text-wrapper-4 {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 233px;
+}
+
+.login .name-field {
+    background-color: #ffe78b;
+    border-radius: 18px;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 360px;
+}

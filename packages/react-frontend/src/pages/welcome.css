@@ -1,0 +1,163 @@
+.welcome {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.welcome .div {
+    background-color: #ffffff;
+    height: 932px;
+    overflow: hidden;
+    position: relative;
+    width: 430px;
+}
+
+.welcome .overlap {
+    height: 713px;
+    left: -132px;
+    position: absolute;
+    top: -245px;
+    width: 710px;
+}
+
+.welcome .rectangle {
+    background-color: #ecece9;
+    border-radius: 26px;
+    height: 519px;
+    left: 100px;
+    position: absolute;
+    top: 97px;
+    transform: rotate(-32.66deg);
+    width: 511px;
+}
+
+.welcome .ellipse {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, rgb(186, 223, 231) 100%);
+    border-radius: 138.5px;
+    height: 277px;
+    left: 216px;
+    position: absolute;
+    top: 425px;
+    width: 277px;
+}
+
+.welcome .logo-group {
+    height: 226px;
+    left: 249px;
+    position: absolute;
+    top: 450px;
+    width: 194px;
+}
+
+.welcome .overlap-group {
+    height: 762px;
+    left: -183px;
+    position: absolute;
+    top: 510px;
+    width: 661px;
+}
+
+.welcome .overlap-2 {
+    height: 666px;
+    left: 0;
+    position: absolute;
+    top: 96px;
+    width: 661px;
+}
+
+.welcome .rectangle-2 {
+    background-color: #ecece9;
+    border-radius: 26px;
+    height: 519px;
+    left: 75px;
+    position: absolute;
+    top: 73px;
+    transform: rotate(20.67deg);
+    width: 511px;
+}
+
+.welcome .group {
+    height: 123px;
+    left: 217px;
+    position: absolute;
+    top: 70px;
+    width: 361px;
+}
+
+.welcome .overlap-group-wrapper {
+    height: 48px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 362px;
+}
+
+.welcome .div-wrapper {
+    background-color: #ffe68b;
+    border: 3px solid;
+    border-color: #008080;
+    border-radius: 13px;
+    height: 48px;
+    position: relative;
+    width: 360px;
+}
+
+.welcome .text-wrapper {
+    color: #008080;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    white-space: nowrap;
+}
+
+.welcome .overlap-wrapper {
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 75px;
+    width: 362px;
+}
+
+.welcome .overlap-3 {
+    border: 3px solid;
+    border-color: #008080;
+    border-radius: 13px;
+    height: 48px;
+    position: relative;
+    width: 360px;
+}
+
+.welcome .text-wrapper-2 {
+    color: #008080;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 117px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    white-space: nowrap;
+}
+
+.welcome .WELCOME-TO-CRIB {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+}
