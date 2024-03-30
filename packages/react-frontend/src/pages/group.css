@@ -1,0 +1,153 @@
+.join-household {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.join-household .group-wrapper {
+    background-color: #ffffff;
+    height: 932px;
+    width: 430px;
+}
+
+.join-household .group {
+    height: 715px;
+    left: 21px;
+    position: relative;
+    top: 108px;
+    width: 388px;
+}
+
+.join-household .vector-arrow {
+    background-color: #f2fbe0;
+    border: 1px solid;
+    border-color: #388087;
+    border-radius: 22.5px;
+    height: 45px;
+    left: 316px;
+    position: absolute;
+    top: 290px;
+    width: 45px;
+}
+
+.join-household .submit.vector {
+    height: 23px;
+    left: 407px;
+    position: absolute;
+    top: 310px;
+    width: 24px;
+}
+
+.join-household .vector-arrow2 {
+    background-color: #f2fbe0;
+    border: 1px solid;
+    border-color: #388087;
+    border-radius: 22.5px;
+    height: 45px;
+    left: 316px;
+    position: absolute;
+    top: 290px;
+    width: 45px;
+}
+
+.join-household .vector-arrow:hover {
+    background-color: #ffe78b;
+  }
+
+.join-household .vector-arrow2:hover {
+background-color: #ffe78b;
+}
+
+.join-household .create-household {
+    height: 271px;
+    left: 0;
+    position: absolute;
+    top: 400px;
+    width: 392px;
+}
+
+.join-household .create-text {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 388px;
+}
+
+.join-household .join-text {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 388px;
+}
+
+.join-household .div {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 71px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 154px;
+    white-space: nowrap;
+}
+
+.join-household .house-name-field {
+    background-color: #ffe78b;
+    border-radius: 38px;
+    height: 79px;
+    left: 22px;
+    position: absolute;
+    top: 192px;
+    width: 344px;
+}
+
+.join-household .house-code-field {
+    background-color: #ffe78b;
+    border-radius: 38px;
+    height: 79px;
+    left: 22px;
+    position: absolute;
+    top: 192px;
+    width: 344px;
+}
+
+.join-household .div-3 {
+    height: 271px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 392px;
+}
+
+.join-household .code-text {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 154px;
+    white-space: nowrap;
+}

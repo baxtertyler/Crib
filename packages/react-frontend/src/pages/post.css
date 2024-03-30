@@ -1,0 +1,396 @@
+.post-something {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.post-something .div {
+    background-color: #ffffff;
+    height: 932px;
+    position: relative;
+    width: 430px;
+}
+.post-something .task-box {
+    background-color: #badfe7;
+    height: 265px;
+    left: 15px;
+    position: absolute;
+    top: 319px;
+    width: 401px;
+}
+
+
+.post-something .task-field {
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 32px;
+    left: 86px;
+    position: absolute;
+    top: 20px;
+    width: 290px;
+}
+
+.post-something .duedate-field{
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 35px;
+    left: 140px;
+    position: absolute;
+    top: 70px;
+    width: 233px;
+}
+
+.post-something .weight-field{
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 35px;
+    left: 140px;
+    position: absolute; 
+    top: 120px;
+    width: 233px;
+}
+
+.post-something .assignee-field{
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 35px;
+    left: 140px;
+    position: absolute;
+    top: 170px;
+    width: 233px;
+}
+
+.post-something .task-text {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 30px;
+    width: 59px;
+}
+
+.post-something .due-date-text{
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+    width: 103px;
+}
+
+.post-something .weight-text {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 130px;
+    width: 170px;
+}
+
+.post-something .assignee-text {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 180px;
+    width: 170px;
+}
+
+
+.post-something .poll-box {
+    background-color: #badfe7;
+    min-height: 250px; 
+    left: 19px;
+    position: absolute;
+    top: 652px;
+    width: 400px;
+    overflow: auto; 
+}
+
+
+.post-something .title2-text {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+}
+
+.post-something .option1-text  {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 71px;
+    white-space: nowrap;
+}
+
+.post-something .option2-text {
+    color: #388087;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 117px;
+    white-space: nowrap;
+}
+
+
+.post-something .title2-field{
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 32px;
+    left: 97px;
+    position: absolute;
+    top: 22px;
+    width: 273px;
+}
+
+
+.post-something .option1-field {
+    background-color: #f2fbe0;
+    border-radius: 49px;
+    height: 32px;
+    left: 124px;
+    position: absolute;
+    top: 68px;
+    width: 246px;
+}
+
+
+.post-something .option2-field{
+    background-color: #f2fbe0;
+    border-radius: 15px;
+    height: 32px;
+    left: 124px;
+    position: absolute;
+    top: 114px;
+    width: 246px;
+}
+
+.post-something .ellipse {
+    background-color: #f2fbe0;
+    border-radius: 10.5px;
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 11px;
+    width: 21px;
+}
+
+
+.post-something .top-rect {
+    height: 351px;
+    left: 0;
+    position: absolute;
+    top: -39px;
+    width: 432px;
+}
+
+/* task text */
+.post-something .task-header {
+    -webkit-text-stroke: 0.3px #388087;
+    color: #ffe78b;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 303px;
+    white-space: nowrap;
+}
+
+.post-something .rectangle-7 {
+    background-color: #ecece9;
+    border-radius: 22px;
+    height: 139px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 430px;
+}
+
+.post-something .logo-group-wrapper {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, rgb(186, 223, 231) 100%);
+    border-radius: 36.5px;
+    height: 73px;
+    left: 178px;
+    position: absolute;
+    top: 53px;
+    width: 73px;
+}
+
+.post-something .logo-group {
+    height: 59px;
+    left: 9px;
+    position: absolute;
+    top: 7px;
+    width: 51px;
+}
+
+.post-something .ellipse-2 {
+    background-color: #f2fbe0;
+    border: 1px solid;
+    border-color: #388087;
+    border-radius: 16px;
+    height: 32px;
+    left: 387px;
+    position: absolute;
+    top: 53px;
+    width: 32px;
+}
+
+.post-something .vector {
+    height: 20px;
+    left: 393px;
+    position: absolute;
+    top: 59px;
+    width: 19px;
+}
+
+
+.post-something .overlap-group-wrapper {
+    height: 241px;
+    left: 31px;
+    position: absolute;
+    top: 97px;
+    width: 401px;
+}
+
+.post-something .overlap-group-2 {
+    height: 241px;
+    position: relative;
+    width: 397px;
+}
+
+
+.post-something .POST-SOMETHING {
+    color: #388087;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 77px;
+}
+
+
+.post-something .explanationpoint {
+    color: #ffe78b;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 200px;
+    font-weight: 700;
+    left: 274px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    transform: rotate(-30.88deg);
+}
+
+.post-something .poll-text {
+    -webkit-text-stroke: 0.3px #388087;
+    color: #ffe78b;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 603px;
+    white-space: nowrap;
+}
+
+.post-something .poll-submit {
+    display: inline-block;
+    border: 1px solid #fff; 
+    border-radius: 10px;
+    background: #6fb3b8; 
+    color: white;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    text-transform: none;
+    padding: 0.75rem 1.25rem;
+    margin: 0 0 0.5rem 0;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    line-height: 1;
+    position: relative;
+    top: 170px;
+}
+
+.post-something .button,
+.post-something a.button,
+.post-something button,
+.post-something nav li,
+.post-something [type=reset],
+.post-something  .task-submit{
+  display: inline-block;
+  border: 1px solid #fff; 
+  border-radius: 10px;
+  background: #6fb3b8; 
+  color: white; 
+  font-weight: 600;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  text-transform: none;
+  padding: 0.75rem 1.25rem;
+  margin: 0 0 0.5rem 0;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 1;
+  position: relative;
+  top: 220px;
+}
+
+.post-something .button:hover,
+.post-something a.button:hover,
+.post-something button:hover,
+.post-something nav li:hover,
+.post-something [type=submit]:hover,
+.post-something [type=reset]:hover,
+.post-something [type=button]:hover {
+  border: 1px solid #ddd;
+  background: #ffe78b; 
+}

@@ -1,0 +1,25 @@
+{
+  "name": "crib_project",
+  "version": "1.0.0",
+  "description": "Group Software Project for CSC-307.",
+  "main": "index.js",
+  "workspaces": [
+    "packages/express-backend",
+    "packages/react-frontend"
+  ],
+  "scripts": {
+    "lint": "npx eslint . && npx prettier --check .",
+    "test": "npx jest",
+    "dev": "node backend.js",
+    "start": "node backend.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "react-router-dom": "^6.20.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}

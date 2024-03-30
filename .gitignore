@@ -1,0 +1,3 @@
+/node_modules
+/packages/express-backend/.env
+/packages/.DS_Store

@@ -1,0 +1,65 @@
+/* nav bar */ 
+.box {
+  position: relative;
+  width: 430px;
+
+  }
+  
+.box .group {
+  background-color: #ecece9;
+  height: 44px;
+  position: fixed; 
+  bottom: 10px;  
+  left: 50%; 
+  transform: translateX(-50%);
+  width: 430px;
+  z-index: 1;  
+}
+
+.box .post-button {
+  border: 1px solid;
+  border-color: #388087;
+  border-radius: 12px;
+  height: 20px;
+  left: 138px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+
+.box .home-button {
+  border: 1px solid;
+  border-color: #388087;
+  border-radius: 12px;
+  height: 20px;
+  left: 205px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+
+.box .profile-button {
+  border: 1px solid;
+  border-color: #388087;
+  border-radius: 12px;
+  height: 20px;
+  left: 271px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.box .post-button, .box .home-button, .box .profile-button {
+
+  transition: background-color 0.3s ease;
+}
+
+.box .post-button:hover, .box .home-button:hover, .box .profile-button:hover {
+  background-color: #FFE78B; 
+}
+
+.box .group .active-button {
+  background-color: #FFE78B;
+}
