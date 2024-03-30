@@ -47,5 +47,3 @@ Run locally with 'npm start' in both express-backend and react-frontend director
 **Deployment Links:** (inactive - faced extensive problems with CD)  
 Azure Frontend: https://black-beach-047e9eb1e.4.azurestaticapps.net/  
 Azure Backend: https://crib-app.azurewebsites.net/  
-# Crib
-# Crib
